@@ -15,4 +15,10 @@
 
 ## Time taken: 3 hours
 
-[Web Page:Live-Link](https://project13-htmlcss.netlify.app/)
+# Web Page : [Live-Link](https://project13-htmlcss.netlify.app/)
+
+![images](./Assets/1.png)
+
+![images](./Assets/2.png)
+
+![images](./Assets/3.png)
